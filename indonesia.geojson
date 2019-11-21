@@ -12609,7 +12609,7 @@
       "properties": {
         "ID": 14,
         "kode": 31,
-        "Propinsi": "DKI JAKARTA",
+        "Propinsi": "JAKARTA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -12686,7 +12686,7 @@
       "properties": {
         "ID": 141,
         "kode": 311,
-        "Propinsi": "JAKARTA",
+        "Propinsi": "DKI JAKARTA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -43323,7 +43323,7 @@
       "properties": {
         "ID": 26,
         "kode": 13,
-        "Propinsi": "SUMATERA BARAT",
+        "Propinsi": "SUMATRA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -44234,7 +44234,7 @@
       "properties": {
         "ID": 261,
         "kode": 131,
-        "Propinsi": "SUMATRA BARAT",
+        "Propinsi": "SUMATERA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -46172,7 +46172,7 @@
       "properties": {
         "ID": 28,
         "kode": 16,
-        "Propinsi": "SUMATERA SELATAN ",
+        "Propinsi": "SUMATRA SELATAN ",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
@@ -47069,7 +47069,7 @@
       "properties": {
         "ID": 281,
         "kode": 161,
-        "Propinsi": "SUMATRA SELATAN",
+        "Propinsi": "SUMATERA SELATAN",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
     },
