@@ -2431,10 +2431,10 @@
           ]
         ]
       },
-      "id": 34,
+      "id": 341,
       "properties": {
-        "ID": 5,
-        "kode": 34,
+        "ID": 51,
+        "kode": 341,
         "Propinsi": "YOGYAKARTA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -12682,10 +12682,10 @@
           ]
         ]
       },
-      "id": 31,
+      "id": 311,
       "properties": {
-        "ID": 14,
-        "kode": 31,
+        "ID": 141,
+        "kode": 311,
         "Propinsi": "JAKARTA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -40664,10 +40664,10 @@
           ]
         ]
       },
-      "id": 12,
+      "id": 121,
       "properties": {
-        "ID": 24,
-        "kode": 12,
+        "ID": 241,
+        "kode": 121,
         "Propinsi": "SUMATRA UTARA",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -44230,10 +44230,10 @@
           ]
         ]
       },
-      "id": 13,
+      "id": 131,
       "properties": {
-        "ID": 26,
-        "kode": 13,
+        "ID": 261,
+        "kode": 131,
         "Propinsi": "SUMATRA BARAT",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
@@ -47065,10 +47065,10 @@
           ]
         ]
       },
-      "id": 16,
+      "id": 161,
       "properties": {
-        "ID": 28,
-        "kode": 16,
+        "ID": 281,
+        "kode": 161,
         "Propinsi": "SUMATRA SELATAN",
         "SUMBER": "Peta Dasar BAKOSURTANAL Skala 1 : 250.000"
       }
